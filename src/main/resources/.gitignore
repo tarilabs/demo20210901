@@ -1,0 +1,4 @@
+# in order to make sure the DMN files are generated as part of the build,
+# ignore those DMN files that SHALL be generated from the XLSX.
+
+Loan_approvals.xlsx.dmn
